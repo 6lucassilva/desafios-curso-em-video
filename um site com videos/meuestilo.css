@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/*regra de compatibilidade*/
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+h1{
+    color: white;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    }
